@@ -4,10 +4,6 @@
 
 using namespace std;
 
-struct test
-{
-};
-
 vector<int> arr;
 int n;
 
