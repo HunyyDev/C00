@@ -1,0 +1,2 @@
+D:\OOP\C02\BaiKiemTra1\x64\Debug\BaiKiemTra1.exe
+D:\OOP\source\BaiKiemTra1\x64\Debug\BaiKiemTra1.exe

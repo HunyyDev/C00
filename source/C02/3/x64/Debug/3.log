@@ -1,0 +1,3 @@
+﻿  3.cpp
+D:\OOP\source\C02\3\3.cpp(52,19): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+  3.vcxproj -> D:\OOP\source\C02\3\x64\Debug\3.exe
