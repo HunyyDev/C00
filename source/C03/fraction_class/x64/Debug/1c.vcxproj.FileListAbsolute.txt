@@ -1,0 +1,2 @@
+D:\OOP\source\C02\1c\x64\Debug\1c.exe
+D:\OOP\source\C03\fraction_class\x64\Debug\1c.exe

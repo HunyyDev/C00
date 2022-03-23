@@ -1,0 +1,4 @@
+﻿  triangle_class.cpp
+D:\Source\triangle_class\triangle_class.cpp(50,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Source\triangle_class\triangle_class.cpp(50,11): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  triangle_class.vcxproj -> D:\Source\triangle_class\x64\Debug\triangle_class.exe
